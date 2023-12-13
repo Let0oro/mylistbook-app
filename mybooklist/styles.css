@@ -1,0 +1,16 @@
+.title {
+    color: green;
+}
+
+body {
+    background-color: #E9ECEF;
+}
+
+.toast-img {
+    height: 1rem;
+    width: 1rem;
+}
+
+td {
+    word-break: break-all;
+}
